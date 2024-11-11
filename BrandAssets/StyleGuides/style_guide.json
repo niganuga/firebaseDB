@@ -1,0 +1,168 @@
+{
+    "styleGuide": {
+      "brand": "Transfer Superstars",
+      "coreIdentity": {
+        "mission": "Empowering creators with easy-to-understand, high-quality DTF printing knowledge and resources.",
+        "vision": "To make DTF printing simple, inspire creativity, and help our community succeed through practical, easy-to-follow content.",
+        "tagline": "Create. Inspire. Empower. Keep Chasing Brilliance."
+      },
+      "voice": {
+        "attributes": [
+          "Friendly",
+          "Knowledgeable",
+          "Clear",
+          "Approachable",
+          "Fun"
+        ],
+        "style": "Conversational, like talking to a friend who’s an expert in DTF printing.",
+        "keywords": [
+          "DTF printing",
+          "custom t-shirts",
+          "easy tips",
+          "simple steps",
+          "clear instructions",
+          "visual learning"
+        ]
+      },
+      "tone": {
+        "overallTone": "Encouraging, clear, and helpful with a touch of humor.",
+        "variations": {
+          "tutorials": "Step-by-step, visual, and simple.",
+          "customerSupport": "Empathetic, solution-focused, and patient.",
+          "communityPosts": "Friendly, relatable, and engaging."
+        }
+      },
+      "formatting": {
+        "headers": {
+          "H1": "Main Title (e.g., 'How to Make Your DTF Prints Pop!')",
+          "H2": "Main Sections (e.g., 'Step 1: Prepare Your Artwork')",
+          "H3": "Subsections (e.g., 'Choosing the Right Heat Press Settings')",
+          "boldText": "For key points or tips (e.g., 'Always preheat your garment!')",
+          "bulletPoints": "For lists, steps, or important details",
+          "tables": "For comparisons or detailed data (e.g., 'Heat Press Temperature Guide')"
+        },
+        "textStructure": {
+          "averageSentenceLength": "10-15 words for simple clarity",
+          "paragraphLength": "1-2 sentences, to avoid overwhelming the reader",
+          "lineSpacing": "1.6 for better readability",
+          "readability": "8th-grade level (Flesch-Kincaid)"
+        },
+        "visualElements": {
+          "emojiUsage": [
+            "🎨 (For creative tips)",
+            "💡 (For helpful hints)",
+            "🔥 (For hot tips or popular features)",
+            "🔍 (For detailed insights)"
+          ],
+          "icons": [
+            "Simple illustrations",
+            "Bright, bold visuals",
+            "Comic-style elements",
+            "Step-by-step images"
+          ]
+        }
+      },
+      "writingRules": [
+        {
+          "rule": "Use short, simple sentences",
+          "example": "Do: 'Set your heat press to 300°F for 15 seconds.' Don't: 'Ensure the application of thermal pressure at an optimal temperature of 300 degrees Fahrenheit for a period of 15 seconds.'"
+        },
+        {
+          "rule": "Explain complex ideas with everyday examples",
+          "example": "Do: 'Think of your heat press like a waffle maker. You need the right temperature and timing for a perfect print.'"
+        },
+        {
+          "rule": "Break down steps visually",
+          "example": "Use numbered lists and images (e.g., '1. Place the transfer on the shirt, 2. Press for 15 seconds, 3. Peel the film slowly')."
+        },
+        {
+          "rule": "Use familiar language and avoid jargon",
+          "example": "Do: 'Make sure your artwork has a transparent background.' Don't: 'Ensure your design file utilizes an alpha channel for transparency.'"
+        },
+        {
+          "rule": "Encourage visual learning",
+          "example": "Include screenshots, diagrams, and before/after photos whenever possible."
+        }
+      ],
+      "contentPatterns": [
+        {
+          "patternName": "Step-by-Step Guide",
+          "structure": [
+            "🎯 What you’ll learn",
+            "👉 Quick overview of steps",
+            "📸 Visuals for each step",
+            "💡 Pro tips throughout",
+            "✅ Recap of what you did"
+          ]
+        },
+        {
+          "patternName": "Problem-Solution Format",
+          "structure": [
+            "😅 Common problem",
+            "🔍 What’s causing it",
+            "✨ Simple fix",
+            "📸 Visual example of the solution",
+            "🎉 End result"
+          ]
+        },
+        {
+          "patternName": "Quick Tips",
+          "structure": [
+            "🔥 Tip title (e.g., 'Make Your Prints Softer')",
+            "💡 Key advice",
+            "📸 Visual or example",
+            "🎯 Result you can expect"
+          ]
+        },
+        {
+          "patternName": "Visual Learning",
+          "structure": [
+            "Start with an image or video preview",
+            "Explain using a relatable analogy",
+            "Break it down with simple diagrams",
+            "Recap with a step-by-step infographic"
+          ]
+        }
+      ],
+      "platformGuidelines": {
+        "YouTube": {
+          "contentFormat": [
+            "Visual tutorials with clear steps",
+            "Short tip videos under 5 minutes",
+            "In-depth 'How-To' series for advanced techniques"
+          ],
+          "style": "High-energy, clear explanations with a focus on visual demonstrations and relatable analogies."
+        },
+        "Website/Blog": {
+          "contentFormat": [
+            "Step-by-step tutorials with images",
+            "Resource downloads (e.g., templates, checklists)",
+            "FAQs with visuals for common questions",
+            "Case studies featuring customer examples"
+          ],
+          "style": "Informative, structured for scanning, and filled with helpful visuals."
+        },
+        "Social Media": {
+          "contentFormat": [
+            "Quick video clips with captions",
+            "Before/after photo comparisons",
+            "Engaging polls and tips in stories",
+            "Customer highlights with visuals"
+          ],
+          "style": "Short, visual, and engaging. Use emojis and bright images to grab attention."
+        }
+      },
+      "brandExamples": {
+        "do": [
+          "We get it—heat pressing can feel like baking cookies. Too hot, and you burn it. Too cold, and it doesn’t stick. Here’s how to get it just right every time! 🍪",
+          "Check out this video where we show you the easiest way to fix a peeling transfer. No stress, just results! 🎥",
+          "Need a softer feel? Lower your press temperature by 10°F and increase the press time by 5 seconds. Feels just like a retail tee! 👕"
+        ],
+        "don't": [
+          "Upon completion of the heat pressing process, assess the adherence of the transfer to the garment.",
+          "Refer to our extensive manual for further guidance on resolving application issues.",
+          "The process was adjusted to enhance the softness of the fabric."
+        ]
+      }
+    }
+  }
